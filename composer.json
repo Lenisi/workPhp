@@ -1,0 +1,13 @@
+{
+    "name": "ember/lesson11-12",
+    "autoload": {
+        "files": [
+            "functions/app.php",
+            "functions/categories.php",
+            "functions/posts.php"
+        ]
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^8.0"
+    }
+}
